@@ -2,5 +2,10 @@
 
 Paola Andrea Henao Suarez
 Juan Manuel Roldán Zamudio
-Lorena Dávila Ermus
 Natalia Andrea Marin Giraldo
+
+# Lorena Dávila Ermus
+
+## Cuba
+
+Vivo en Perú 🇵🇪
