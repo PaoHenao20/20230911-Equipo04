@@ -1,5 +1,5 @@
 # 20230911-Equipo04
 
 Paola Andrea Henao Suarez
-
-## Añadiendo otra sección por acá
+Juan Manuel Roldán Zamudio
+Lorena Dávila Ermus
