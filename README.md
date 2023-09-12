@@ -2,3 +2,4 @@
 
 Paola Andrea Henao Suarez
 Juan Manuel Roldán Zamudio
+Natalia Andrea Marin Giraldo
