@@ -1,4 +1,6 @@
 # 20230911-Equipo04
 
-Paola Andrea Henao Suarez
-Juan Manuel Roldán Zamudio
+# **Juan Manuel Roldán Zamudio**
+## México
+
+México :mexico:
